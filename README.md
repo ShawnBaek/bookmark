@@ -8,6 +8,9 @@ Appstore/Playstore Ranking API
 - https://appfigures.com
 - https://42matters.com/docs/app-market-data/ios/apps/ranks?utm_source=chatgpt.com
 
+OpenAPI Generator for Swift
+- https://github.com/awslabs/swift-openapi-lambda
+
 
 ## Tools
 Database Visualization tools

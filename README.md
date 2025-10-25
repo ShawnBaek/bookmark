@@ -1,5 +1,8 @@
 # bookmark for engineers
 
+## Book Publishers
+
+
 ## APIs
 Appstore/Playstore Ranking API
 - https://appfigures.com
@@ -9,3 +12,6 @@ Appstore/Playstore Ranking API
 ## Tools
 Database Visualization tools
 - https://azimutt.app
+
+Web Scraping
+- https://scrapegraphai.com
